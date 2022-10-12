@@ -39,12 +39,13 @@ main h2 {
 
 .thatabg-2-style {
     color:darkorange
+    background-color:darkgreen
     background:rgb(100, 72, 255);
 }
 
 .thatabg-3-style {
     color:ivory
-    background-color:darkblue
+    background-color:#555
 }
 
 .my-bio {
